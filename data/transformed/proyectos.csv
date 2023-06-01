@@ -1,0 +1,38 @@
+ID_PROYECTO,RUT_PROYECTO,NOM_PROYECTO,NOM_LEGAL,NOM_LEGAL_PROMESA,NOMBRE_BANCO,CALLE,CIUDAD,COMUNA,HORARIO_ATENCION,FECHA_ESCRITURA,FECHA_INICIO,FECHA_TERMINO,PORCENTAJE_AVANCE
+1,76326025-9,MARCHA BLANCA,INMOBILIARIA MARCHA BLANCA,INMOBILIARIA MARCHA BLANCA,BANCO DEL DESARROLLO,Apoquindo,Santiago,Las Condes,sin_dato,2026-01-01,2020-01-01,2026-01-01,0.35
+2,76761005-K,ORIGEN,INMOBILIARIA SANTA CRISTINA SPA,INMOBILIARIA SANTA CRISTINA SPA,BANCO SECURITY,Santa Cristina 3138,Santiago,Macul,lunes a domingo 10:30 a 18:30 horas,2021-03-01,2018-04-30,2021-05-01,0.955
+3,76618549-5,COLIFE,INMOBILIARIA GENERAL JOFRE SPA,INMOBILIARIA GENERAL JOFRE SPA,BANCO SECURITY,General Jofre 220,Santiago,Santiago,lunes a domingo 10:30 a 18:30 horas,2021-03-01,2017-12-31,2021-12-30,0.956
+4,76763933-3,ICONO,INMOBILIARIA MADRESELVA SPA,INMOBILIARIA MADRESELVA SPA,BANCO SECURITY,Las Madreselvas 4519,Santiago,Macul,lunes a domingo 10:30 a 18:30 horas,2021-07-01,2017-04-30,2021-12-31,0.79
+5,76896595-1,OPEN ALEMANIA,INMOBILIARIA ALTO ALEMANIA DOS SPA,INMOBILIARIA ALTO ALEMANIA DOS SPA,BANCO BCI,Avenida Alemania 1655,Temuco,Temuco,lunes a domingo 10:30 a 18:30 horas,2023-04-30,2018-01-31,2023-04-30,0.95
+6,76991583-4,MORE,FAI PINEDA SPA,FAI PINEDA SPA,BANCO BCI,juan de Pineda 8063,Santiago,La Florida,lunes a domingo 10:30 a 18:30 horas,2023-05-30,2020-01-01,2023-05-30,0.86
+7,76991587-7,ARMONIA,FAI COLON SPA,FAI COLON SPA,sin_dato,Colón 6435,Santiago,La Cisterna,lunes a domingo 10:30 a 18:30 horas,2023-05-30,2020-01-01,2023-05-30,0.45
+9,1-9,EDIFICIO ALFRED,EDIFICIO ALFRED,EDIFICIO ALFRED,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2021-10-07,2020-10-07,2021-10-07,sin_dato
+12,76954681-2,Condominio Parque Lircay,Condominio Parque Lircay,WALK TALCA,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2021-03-31,2019-07-08,2020-12-31,sin_dato
+13,76954686-3,Condominio Parque Las Palmas I,Condominio Parque Las Palmas I,WALK SAN JAVIER ETAPA I,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2021-01-31,2019-06-28,2020-11-30,sin_dato
+14,77012087-K,WALK SAN JAVIER II,WALK SAN JAVIER II,WALK SAN JAVIER II,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2022-01-31,2020-05-16,2021-11-30,sin_dato
+15,76954691-K,Condominio Nuevo Centro III,Condominio Nuevo Centro III,WALK LINARES I,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2021-02-28,2019-07-29,2020-12-30,sin_dato
+16,76954691-K,Nuevo Centro I,WALK LINARES II,WALK LINARES II,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2022-01-31,2019-07-29,2025-10-31,sin_dato
+17,77012092-6,WALK PARRAL,WALK PARRAL,WALK PARRAL,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2022-01-31,2020-05-13,2021-10-30,sin_dato
+18,76993875-3,EQUILIBRIO,FAI URREJOLA SPA,Fai Urrejola SpA.,BANCO BCI,Avenida Maria 6470,Santiago,La Cisterna,lunes a domingo 10:30 a 18:30 horas,2023-07-30,2020-07-30,2023-04-30,0.2387
+19,77041893-3,EDIFICIO RAICES,Inmobiliaria San Agustin de Talca Spa ,Inmobiliaria San Agustin de Talca Spa ,sin_dato,sin_dato,sin_dato,sin_dato,lunes a domingo 10:30 a 18:30 horas,2022-05-30,2020-10-01,2023-11-30,sin_dato
+20,77081172-4,O2 ALAMEDA,FAI CENTRAL SPA,O2 ALAMEDA,sin_dato,Av Libertador Bernardo Ohiggins 4361,Santiago,Estación Central,lunes a domingo 10:30 a 18:30 horas,2023-06-30,2020-09-30,2023-09-30,0.131
+21,1-8,Test EyR PostVenta,Test EyR PostVenta,Test EyR PostVenta,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2022-10-28,2020-10-01,2022-10-28,sin_dato
+23,77122372-9,VISTAPARK,FAI RUPANCO SPA,Fai Rupanco SpA,sin_dato,Rupanco 395,Santiago,La Florida,sin_dato,2023-11-30,2021-04-30,2023-12-31,0.05
+24,77081167-8,MOVE,FAI FRANKLIN SPA,FAI Franklin SpA,sin_dato,Franklin 318,Santiago,Santiago,sin_dato,2024-06-30,2021-05-30,2023-05-30,0.01
+25,77142116-4,Walk Gacitua,Inmobiliaria y Const Fai Plaza Oriente I Spa ,Inmobiliaria y Const Fai Plaza Oriente I Spa ,BANCO SANTANDER-CHILE,av gacitua 275,Chillan,Chillán Viejo,lunes a viernes 10:30 a 18:30 horas,2023-01-01,2021-08-01,2022-12-31,sin_dato
+27,76761005-K,Campaña Verano,Campaña Verano,Campaña Verano,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2022-12-31,2021-12-28,2022-12-31,sin_dato
+28,76882505-K,FAN,INMOBILIARIA QUINCHAMALI SPA,sin_dato,sin_dato,QUINCHAMALI 3130,Santiago,Macul,sin_dato,2024-07-30,2022-03-05,2024-09-30,sin_dato
+29,77363661-3,LIVE,FAI LAS DALIAS SPA,sin_dato,sin_dato,RODRIGO DE ARAYA 2036,Ñuñoa,Santiago,sin_dato,2024-01-31,2022-03-05,2024-10-30,0.0
+30,76896595-1,Campaña OPEN ALEMANIA,campaña INMOBILIARIA ALTO ALEMANIA DOS SPA,campaña INMOBILIARIA ALTO ALEMANIA DOS SPA,BANCO BCI,sin_dato,sin_dato,sin_dato,sin_dato,2023-01-31,2018-01-31,2022-12-31,sin_dato
+31,77363661-3,Campaña Live,Campaña Live,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-04-30,2022-03-05,2024-10-31,sin_dato
+32,76882505-K,Campaña Fan,Campaña Fan,Campaña Fan,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-05-31,2022-03-05,2024-05-31,sin_dato
+33,77081172-4,Campaña O2,Campaña O2,Campaña O2,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-05-31,2022-03-05,2024-05-31,sin_dato
+34,77122372-9,Campaña Vista Park,Campaña Vista Park,Campaña Vista Park,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-05-31,2022-03-05,2024-05-31,sin_dato
+35,76993875-3,Campaña Equilibrio,Campaña Equilibrio,Campaña Equilibrio,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-05-31,2022-03-05,2024-05-31,sin_dato
+36,76991583-4,Campaña More,Campaña More,Campaña More,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2022-10-31,2020-01-01,2022-08-31,sin_dato
+37,77081167-8,Campaña Move,Campaña Move,Campaña Move,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-01-31,2021-05-30,2023-05-23,sin_dato
+38,76991587-7,Campaña Armonía,Campaña Armonía,Campaña Armonía,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2023-02-28,2020-01-01,2023-01-01,sin_dato
+40,77142122-9,Condominio Atalaya,Inmb. y constructora FAI Plaza oriente II SpA,sin_dato,BANCO SANTANDER-CHILE,Avenida Las Rastras 3390,Talca,Talca,lunes a viernes 10:30 a 18:30 horas,2025-04-30,2022-04-20,2025-07-30,0.0
+41,77257623-4,MEET,FAI MIRIARTE SPA,FAI MIRIARTE SPA,SCOTIABANK,sin_dato,sin_dato,sin_dato,sin_dato,2025-12-29,2022-10-18,2025-12-29,sin_dato
+42,65216645-8,Condominio Parque Las Palmas II,Condominio Parque Las Palmas II,Condominio Parque Las Palmas II,sin_dato,Adriana García Ibáñez 2078,San Javier,San Javier,sin_dato,2022-11-09,2020-11-09,2022-11-09,0.3
+45,76991587-7,Campaña Landing,Campaña Landing 10,Campaña Landing 10,sin_dato,sin_dato,sin_dato,sin_dato,sin_dato,2024-04-30,2023-04-03,2024-11-01,sin_dato
